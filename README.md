@@ -11,7 +11,7 @@ Ask the user to enter a PIN
 Allow access only if the PIN is correct
 (You may hardcode the PIN for simplicity)
 
-2️⃣ Menu Options
+2️⃣ Menu Options 
 Display a menu with the following choices:
 
 Check Balance
